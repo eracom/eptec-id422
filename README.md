@@ -1,7 +1,4 @@
-# eptec-id422
-Cours Techniques créatives
-
-# Projet interface ID421
+# Techniques Créatives ID422
 
 **Dates:** du 26 août 2022 au 20 janvier 2023  
 **Horaire:** Vendredi – 8h15 à 9h00 (2 périodes)  
@@ -25,7 +22,7 @@ Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1m
 2. Animation (en binôme) d'une séance de brainstorming. Critères: encadrement, rythme, collecte du résultat. En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre.
 3. Réalisation d'un projet créatif sur 100 jours (du 14 septembre au 22 décembre). Critères: assiduité, originalité, qualité de documentation. Présentation le 13 janvier.
 
-## Références:
+## Références
 
 - Dorte Nielsen, Sarah Thurber (2016). *Les secrets de la pensée créative*. Pyramyd.
 - Dorte Nielsen, Katrine Granholm (2016). *Creative Thinker's Exercise Book*. BIS Publishers.

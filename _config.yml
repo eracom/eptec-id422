@@ -8,8 +8,8 @@ robots: noindex, nofollow
 chapters:
 # - title: Cours Dev 2
 #   url: https://id402.ch/cours-dev2-css/
-# - title: Référence CSS
-#   url: https://cours-web.ch/css/
+- title: Référence techniques créatives
+  url: https://cours-web.ch/crea/
 # - title: Infos IMD
 #   url: https://eracom.ch/informations-eleves-id/
 # - title: Plan de formation
