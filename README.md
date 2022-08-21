@@ -14,15 +14,15 @@ Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1m
 
 - **Exercices rapides* (environ 10 minutes) visant à développer la créativité individuelle, selon la méthode ("camp d'entraînement") développée par [Dorte Nielsen](https://www.creativethinker.com/) à l'Institut danois des arts graphiques. Cette méthode propose des exercices (visuel, verbaux, conceptuels) qui entraînent la capacité à faire des connexions.
 - **Brainstorming:** Apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
-- **Projet créatif personnel:** Cultriver une routine créative, via un projet mené sur 100 jours. Inspiré d'un [projet de Michael Beirut](https://designbriefs.ch/100-day-project/) (Pentagram) à la Yale School of Art.
+- **Projet créatif personnel:** Cultiver une routine créative, via un projet mené sur 100 jours. Inspiré d'un [projet de Michael Beirut](https://designbriefs.ch/100-day-project/) (Pentagram) à la Yale School of Art.
 
 ## Evaluations
 
 Trois évaluations auront lieu durant le cours.
 
-1. Participation aux exercices hebdomadaires. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). Critères: fluidité créative, originalité.
-2. Animation (en binôme) d'une séance de brainstorming. Critères: encadrement, rythme, collecte du résultat (envoi de mail avec documentation). En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre. La classe contribuera à l'évaluation.
-3. Réalisation d'un projet créatif sur 100 jours (du 14 septembre au 22 décembre). Critères: endurance, originalité, qualité formelle, qualité de documentation. Présentation le 13 janvier.
+1. [Participation aux exercices hebdomadaires](eval-exercice.html). Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). Critères: fluidité créative, originalité.
+2. [Animation (en binôme) d'une séance de brainstorming](). Critères: encadrement, rythme, collecte du résultat (envoi de mail avec documentation). En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre. La classe contribuera à l'évaluation.
+3. [Réalisation d'un projet créatif sur 100 jours](projet-100-jours.html) (du 14 septembre au 22 décembre). Critères: endurance, originalité, qualité formelle, qualité de documentation. Présentation le 13 janvier 2023.
 
 
 
