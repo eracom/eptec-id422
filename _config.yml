@@ -6,10 +6,10 @@ lang: fr-FR
 robots: noindex, nofollow
 # menu 
 chapters:
-# - title: Cours Dev 2
-#   url: https://id402.ch/cours-dev2-css/
-- title: Référence techniques créatives
-  url: https://cours-web.ch/crea/
+ - title: Cours Techniques Créatives
+   url: https://code.eracom-pedagogique.ch/eptec-id422/
+ - title: Référence techniques créatives
+   url: https://cours-web.ch/crea/
 # - title: Infos IMD
 #   url: https://eracom.ch/informations-eleves-id/
 # - title: Plan de formation
