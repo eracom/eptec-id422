@@ -12,9 +12,9 @@ Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1m
 
 ## Les grands axes du cours
 
-- Exercices visant à développer la créativité individuelle, selon la méthode ("camp d'entraînement) développée par Dorte Nielsen à l'Institut danois des arts graphiques. Cette méthode propose des exercices (visuel, verbaux, conceptuels) qui entraînent la capacité à faire des connexions.
-- Apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
-- Adopter des habitudes de routines créatives, via un exercice créatif mené sur 100 jours. Inspiré d'un [projet de Michael Beirut](https://designbriefs.ch/100-day-project/) (Pentagram) à la Yale School of Art.
+- **Exercices rapides* (environ 10 minutes) visant à développer la créativité individuelle, selon la méthode ("camp d'entraînement") développée par [Dorte Nielsen](https://www.creativethinker.com/) à l'Institut danois des arts graphiques. Cette méthode propose des exercices (visuel, verbaux, conceptuels) qui entraînent la capacité à faire des connexions.
+- **Brainstorming:** Apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
+- **Projet créatif personnel:** Cultriver une routine créative, via un projet mené sur 100 jours. Inspiré d'un [projet de Michael Beirut](https://designbriefs.ch/100-day-project/) (Pentagram) à la Yale School of Art.
 
 ## Evaluations
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Un exerccice
+title: Exercice
 permalink: eval-exercice.html
 ---
 
