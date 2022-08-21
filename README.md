@@ -18,9 +18,13 @@ Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1m
 
 ## Evaluations
 
-1. Participation aux exercices hebdomadaires. Certains des exercices peuvent être validés par une note. Barème: fluidité créative, originalité.
-2. Animation (en binôme) d'une séance de brainstorming. Critères: encadrement, rythme, collecte du résultat. En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre.
-3. Réalisation d'un projet créatif sur 100 jours (du 14 septembre au 22 décembre). Critères: assiduité, originalité, qualité de documentation. Présentation le 13 janvier.
+Trois évaluations auront lieu durant le cours.
+
+1. Participation aux exercices hebdomadaires. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). Critères: fluidité créative, originalité.
+2. Animation (en binôme) d'une séance de brainstorming. Critères: encadrement, rythme, collecte du résultat (envoi de mail avec documentation). En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre. La classe contribuera à l'évaluation.
+3. Réalisation d'un projet créatif sur 100 jours (du 14 septembre au 22 décembre). Critères: endurance, originalité, qualité formelle, qualité de documentation. Présentation le 13 janvier.
+
+
 
 ## Références
 
