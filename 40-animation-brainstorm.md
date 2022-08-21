@@ -4,14 +4,14 @@ title: Animation Brainstorming
 permalink: animation-brainstorming.html
 ---
 
-L'une des grois évaluations du cours: animer un brainstorming avec les élèves de la classe.
+L'une des trois évaluations du cours: animer une séance de brainstorming, à laquelle participent les élèves de la classe.
 
 Objectif: apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
 
 ## Critères
 
 - **Donner les règles:** expliquer les principes du brainstorming et de la méthode choisie.
-- **Garder le rythme:** stimluer le groupe, veiller à ce que chaque personne s'exprime, encadrer les personnes trop dominantes.
+- **Garder le rythme:** stimuler le groupe, veiller à ce que chaque personne s'exprime, encadrer les personnes trop dominantes.
 - **Collecter le résultat:** garder la trace des productions, capturer toutes les idées produites, et les transmettre par un email (ou archiver dans Teams).
 
 En principe, la classe entière participera à l'évaluation, suite à la séance de Brainstorming.

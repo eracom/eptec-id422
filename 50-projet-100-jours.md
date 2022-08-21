@@ -4,12 +4,12 @@ title: Projet 100 jours
 permalink: projet-100-jours.html
 ---
 
-## En bref
+L'une des trois évaluations du cours:
 
 Réalisation d'un projet créatif sur 100 jours  
 Dates: du 14 septembre au 22 décembre 2022. 
 
-Critères: endurance, originalité, qualité formelle, qualité de documentation. 
+**Critères:** endurance, originalité, qualité formelle, qualité de documentation. 
 
 Présentation en classe le 13 janvier 2023.
 
@@ -18,8 +18,8 @@ Présentation en classe le 13 janvier 2023.
 Chaque jour...
 
 - Sur un compte twitter, écrire une micro-histoire.
-- Noter une idée de projet.
-- Noter une idée pour un film, une série.
+- Dans un carnet, noter une idée de projet.
+- Dans un carnet, noter une idée pour un film, une série.
 - Documenter son humeur du moment.
 - Prendre une photo de soi.
 - Prendre une photo d'une autre personne.
@@ -30,6 +30,8 @@ Chaque jour...
 Supports possibles:
 
 - Un compte Twitter ou Instagram en mode privé.
+- Un carnet de notes.
+- Photos prises avec smartphone.
 
 ## Inspirations
 

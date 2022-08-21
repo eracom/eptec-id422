@@ -4,6 +4,8 @@ title: Exercice
 permalink: eval-exercice.html
 ---
 
+L'une des trois évaluations du cours:
+
 Participation aux exercices hebdomadaires. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). 
 
 ### Dates prévues:
