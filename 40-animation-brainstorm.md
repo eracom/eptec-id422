@@ -29,3 +29,9 @@ Todo: un document ou page web qui présente la prestation "Recherche d'idées de
 - Pour d'autres profs (p.ex. produire idées de briefs).
 - Pour entreprises formatrices des élèves.
 - Pour partenaires externes (Arsenic, Les Docks...)
+
+## Répartition
+
+La classe ID422 comportant 19 élèves, nous formerons 8 binômes et un groupe de 3.
+
+Pour chaque séance de brainstorming, la classe sera dividées en deux groupes (7 et 8 élèves). Chaque binôme animera l'un des groupes.
