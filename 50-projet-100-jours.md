@@ -6,7 +6,7 @@ permalink: projet-100-jours.html
 
 L'une des trois évaluations du cours:
 
-Réalisation d'un projet créatif sur 100 jours  
+**Réalisation d'un projet créatif sur 100 jours**  
 Dates: du 14 septembre au 22 décembre 2022. 
 
 **Critères:** endurance, originalité, qualité formelle, qualité de documentation. 
@@ -32,6 +32,8 @@ Supports possibles:
 - Un compte Twitter ou Instagram en mode privé.
 - Un carnet de notes.
 - Photos prises avec smartphone.
+
+**Attention:** ce projet se déroule chaque jour sans pause, même pendant les week-ends et les vacances. Il est donc important de choisir une activité "facile", que vous pourrez réaliser même dans ces conditions.
 
 ## Inspirations
 
