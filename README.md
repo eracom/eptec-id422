@@ -28,11 +28,13 @@ Trois évaluations auront lieu durant le cours.
 
 Un document ou page web qui présente la prestation "Recherche d'idées de la classe ID422". Destinataires:
 
-- Pour d'autres profs (p.ex. produire idées de briefs).
+- Pour d'autres profs (p.ex. produire idées de briefs pour cours du semestre suivant).
 - Pour entreprises formatrices des élèves.
-- Pour partenaires externes (Arsenic, Les Docks...)
+- Pour partenaires externes (Arsenic, Les Docks, entreprise de la cantine...)
 
 ## Références
+
+Des livres qui ont alimenté ce cours:
 
 - Dorte Nielsen, Sarah Thurber (2016). *Les secrets de la pensée créative*. Pyramyd.
 - Dorte Nielsen, Katrine Granholm (2016). *Creative Thinker's Exercise Book*. BIS Publishers.

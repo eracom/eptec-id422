@@ -4,9 +4,11 @@ title: Animation Brainstorming
 permalink: animation-brainstorming.html
 ---
 
-L'une des trois évaluations du cours: animer une séance de brainstorming, à laquelle participent les élèves de la classe.
+L'une des trois évaluations du cours: 
 
-Objectif: apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
+Animer une séance de brainstorming, à laquelle participent les élèves de la classe.
+
+**Objectif:** apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret, *Passez en mode workshop agile*).
 
 ## Critères
 
@@ -24,14 +26,12 @@ En principe, la classe entière participera à l'évaluation, suite à la séanc
 - Créer [un nouvel emoji](https://designbriefs.ch/create-a-new-emoji/) qui n'existe pas encore.
 
 
-Todo: un document ou page web qui présente la prestation "Recherche d'idées de la classe ID422":
-
-- Pour d'autres profs (p.ex. produire idées de briefs).
-- Pour entreprises formatrices des élèves.
-- Pour partenaires externes (Arsenic, Les Docks...)
-
 ## Répartition
 
 La classe ID422 comportant 19 élèves, nous formerons 8 binômes et un groupe de 3.
 
 Pour chaque séance de brainstorming, la classe sera dividées en deux groupes (7 et 8 élèves). Chaque binôme animera l'un des groupes.
+
+Voir l'agenda:
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSX9iRUnoYE5jYBpjLW4oQ4Pl5spj6XOQR-GRmj3zMFpMd9-k8U22jnFH5M0-dCJynEpPaX9Q5m-8BR/pubhtml?gid=139958268&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

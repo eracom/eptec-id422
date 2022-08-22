@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Exercice
+title: Exercices hedbomadaires
 permalink: eval-exercice.html
 ---
 
 L'une des trois évaluations du cours:
 
-Participation aux exercices hebdomadaires. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). 
+Participation aux exercices hebdomadaires, le  "camp d'entraînement" selon Dorte Nielsen. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). 
 
 ### Dates prévues:
 
