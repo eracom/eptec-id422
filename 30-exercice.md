@@ -16,7 +16,7 @@ Participation aux exercices hebdomadaires, le  "camp d'entraînement" selon Dort
 
 Après la réalisation d'un exercice, vous pouvez décider de le soumettre à évaluation. 
 
-On n'est pas toujours dans un jour "créatif", c'est pourquoi vous avez trois possibilités de faire évaluer votre production.
+Nous avons tous des jours ou nous sommes moins créatifs". C'est pourquoi vous aurez trois possibilités de faire évaluer votre production.
 
 ### Critères: 
 
