@@ -11,29 +11,32 @@ Dates: du 14 septembre au 22 décembre 2022.
 
 **Critères:** endurance, originalité, qualité formelle, qualité de documentation. Voir détails ci-dessous.
 
-**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter... 
+**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter... La séance du 23 décembre servira à préparer la présentation du 13 janvier (préparation des fichiers, impression, documentation).
+
+**Objectif:** le but de ce travail n'est pas de créer une œuvre d'art incroyable, mais de vous apprendre à développer des habitudes créatives, à créer vos "rituels". Donner de la place, dans votre quotidien, pour un acte personnel d'observation et de création, aussi modeste soit-il.
 
 ## Quelques exemples d'idées 
 
-Chaque jour...
-
-- Sur un compte twitter, écrire une micro-histoire.
-- Dans un carnet, noter une idée de projet.
-- Dans un carnet, noter une idée pour un film, une série.
-- Documenter son humeur du moment.
-- Prendre une photo de soi.
-- Prendre une photo d'une autre personne.
-- Photographier chaque jour un endoit en transformation.
-- Photographier une manchette de journal.
-- Photographier un écran de télévision.
-
 Supports possibles:
 
-- Un compte Twitter ou Instagram en mode privé.
-- Un carnet de notes.
+- Un carnet de notes d'au moins 100 pages.
 - Photos prises avec smartphone.
+- Un compte Twitter ou Instagram (en mode privé).
 
-**Attention:** ce projet se déroule chaque jour sans pause, même pendant les week-ends et les vacances. Il est donc important de choisir une activité "facile", que vous pourrez réaliser même dans ces conditions.
+Chaque jour...
+
+- Sur un compte Twitter, écrire une micro-histoire.
+- Sur un compte Twitter, faire un dessin ASCII-art.
+- Dans un carnet, noter une idée de projet.
+- Dans un carnet, noter une idée pour un film, une série.
+- Dans un carnet, dessiner un animal ou personnage.
+- Prendre une photo de soi.
+- Prendre une photo d'une autre personne.
+- Photographier chaque jour un détail que vous n'aviez jamais remarqué.
+- Photographier à une heure fixe, où qu'on soit.
+- Photographier une manchette de journal.
+
+**Attention:** ce projet se déroule *chaque jour*, sans pause, même pendant les week-ends et les vacances. Il est donc important de choisir une activité "facile" et rapide, que vous pourrez réaliser même dans ces conditions.
 
 ## Inspirations
 
