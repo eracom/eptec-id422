@@ -11,7 +11,7 @@ Dates: du 14 septembre au 22 décembre 2022.
 
 **Critères:** endurance, originalité, qualité formelle, qualité de documentation. 
 
-Présentation en classe le 13 janvier 2023.
+Présentation en classe le 13 janvier 2023. Sur écran, imprimé, collé au mur, une sortie plotter... 
 
 ## Quelques exemples d'idées 
 
@@ -43,7 +43,7 @@ Supports possibles:
 
 ## Evaluation
 
-Les critères:
+Les critères d'évaluation pour ce projet:
 
 - **Endurance:** le projet a-t-il été exécuté de manière régulière durant 100 jours?
 - **Originalité:** êtes-vous allé au bout de la contrainte? Avez-vous exploré les possibilités?
