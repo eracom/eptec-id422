@@ -6,14 +6,23 @@ permalink: projet-100-jours.html
 
 L'une des trois évaluations du cours:
 
+## Description
+
 **Réalisation d'un projet créatif sur 100 jours**  
-Dates: du 14 septembre au 22 décembre 2022. 
-
-**Critères:** endurance, originalité, qualité formelle, qualité de documentation. Voir détails ci-dessous.
-
-**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter... La séance du 23 décembre servira à préparer la présentation du 13 janvier (préparation des fichiers, impression, documentation).
 
 **Objectif:** le but de ce travail n'est pas de créer une œuvre d'art incroyable, mais de vous apprendre à développer des habitudes créatives, à créer vos "rituels". Donner de la place, dans votre quotidien, pour un acte personnel d'observation et de création, aussi modeste soit-il.
+
+**Dates:**
+
+Le 2 septembre (cours N°2), nous ferons un Brainstorming pour produire un maximum d'idées pour ce projet. Vous aurez ensuite une semaine pour faire votre choix individuel, que vous me présenterez le 9 septembre.
+
+Le projet se déroulera **du 14 septembre au 22 décembre 2022** (100 jours).
+
+La séance du 23 décembre servira à préparer la présentation en classe du 13 janvier (préparation des fichiers, impression, documentation).
+
+**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter...
+
+**Critères d'évaluation:** endurance, originalité, qualité formelle, qualité de documentation. Voir détails ci-dessous.
 
 ## Quelques exemples d'idées 
 
@@ -38,17 +47,21 @@ Chaque jour...
 
 **Attention:** ce projet se déroule *chaque jour*, sans pause, même pendant les week-ends et les vacances. Il est donc important de choisir une activité "facile" et rapide, que vous pourrez réaliser même dans ces conditions.
 
-## Inspirations
-
-- The Atlas Group - [https://www.theatlasgroup1989.org/n57](https://www.theatlasgroup1989.org/n57)
-- Michael Bierut, [Five Years of 100 Days](https://designobserver.com/feature/five-years-of-100-days/24678), DesignObserver.com
-- Voir un descriptif sur [DesignBriefs.ch](https://designbriefs.ch/100-day-project/)
-
 ## Evaluation
+
+Tout le travail effectué devra être montré, sur un écran, sous forme imprimée, ou directement dans le cas d'une production matérielle (carnet, dessin, sculpture sur chewing-gum, etc...)
+
+Une documentation **sur une page A4** devra indiquer: auteur du projet, titre de la série, notice explicative. Un modèle InDesign sera fourni et devra être utilisé.
 
 Les critères d'évaluation pour ce projet:
 
 - **Endurance:** le projet a-t-il été exécuté de manière régulière durant 100 jours?
 - **Originalité:** êtes-vous allé au bout de la contrainte? Avez-vous exploré les possibilités?
 - **Qualité formelle:** le style choisi est-il respecté et maintenu? La qualité et le soin du détail est-il resté constant?
-- **Qualité de la documentation:** la présentation du projet est-elle claire, valorisante? 
+- **Qualité de la documentation:** la présentation du projet est-elle claire, valorisante et soignée?
+
+## Inspirations
+
+- The Atlas Group - [https://www.theatlasgroup1989.org/n57](https://www.theatlasgroup1989.org/n57)
+- Michael Bierut, [Five Years of 100 Days](https://designobserver.com/feature/five-years-of-100-days/24678), DesignObserver.com
+- Voir un descriptif sur [DesignBriefs.ch](https://designbriefs.ch/100-day-project/)
