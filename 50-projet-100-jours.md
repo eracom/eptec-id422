@@ -9,9 +9,9 @@ L'une des trois évaluations du cours:
 **Réalisation d'un projet créatif sur 100 jours**  
 Dates: du 14 septembre au 22 décembre 2022. 
 
-**Critères:** endurance, originalité, qualité formelle, qualité de documentation. 
+**Critères:** endurance, originalité, qualité formelle, qualité de documentation. Voir détails ci-dessous.
 
-Présentation en classe le 13 janvier 2023. Sur écran, imprimé, collé au mur, une sortie plotter... 
+**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter... 
 
 ## Quelques exemples d'idées 
 

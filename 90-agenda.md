@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Animation Brainstorming
+title: Agenda
 permalink: agenda.html
 ---
 
