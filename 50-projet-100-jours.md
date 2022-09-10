@@ -6,7 +6,7 @@ permalink: projet-100-jours.html
 
 L'une des trois évaluations du cours:
 
-## Description
+## Description
 
 **Réalisation d'un projet créatif sur 100 jours**  
 
