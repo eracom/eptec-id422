@@ -22,7 +22,7 @@ Trois évaluations auront lieu durant le cours.
 
 1. [Participation aux exercices hebdomadaires](eval-exercice.html). Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). Critères: fluidité créative, originalité.
 2. [Animation (en binôme) d'une séance de brainstorming](animation-brainstorming.html). Critères: encadrement, rythme, collecte du résultat (envoi de mail avec documentation). En fonction du nombre d'élèves, 8 séances prévues entre le 2 septembre et 16 décembre. La classe contribuera à l'évaluation.
-3. [Réalisation d'un projet créatif sur 100 jours](projet-100-jours.html) (du 14 septembre au 22 décembre). Critères: endurance, originalité, qualité formelle, qualité de documentation. Présentation le 13 janvier 2023.
+3. [Réalisation d'un projet créatif sur 100 jours](projet-100-jours.html) (du 12 septembre au 20 décembre). Critères: endurance, originalité, qualité formelle, qualité de documentation. Présentation le 13 janvier 2023.
 
 ## Todo 
 
