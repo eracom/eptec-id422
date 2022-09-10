@@ -14,13 +14,13 @@ L'une des trois évaluations du cours:
 
 **Dates:**
 
-Le 2 septembre (cours N°2), nous ferons un Brainstorming pour produire un maximum d'idées pour ce projet. Vous aurez ensuite une semaine pour faire votre choix individuel, que vous me présenterez le 9 septembre.
+Le 2 septembre (cours N°2), nous ferons un Brainstorming pour produire un maximum d'idées pour ce projet. Vous aurez ensuite une semaine pour faire votre choix individuel, que vous me présenterez le vendredi 9 septembre.
 
-Le projet se déroulera **du 14 septembre au 22 décembre 2022** (100 jours).
+Le projet se déroulera **du 12 septembre au 20 décembre 2022** (100 jours).
 
-La séance du 23 décembre servira à préparer la présentation en classe du 13 janvier (préparation des fichiers, impression, documentation).
+La séance du 23 décembre servira à préparer la présentation finale du 13 janvier (préparation des fichiers, impression, documentation).
 
-**Présentation en classe:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une sortie plotter...
+**Présentation finale:** le 13 janvier 2023. Selon votre choix, sur un écran, imprimé, collé au mur, une impression plotter...
 
 **Critères d'évaluation:** endurance, originalité, qualité formelle, qualité de documentation. Voir détails ci-dessous.
 
@@ -55,10 +55,10 @@ Une documentation **sur une page A4** devra indiquer: auteur du projet, titre de
 
 Les critères d'évaluation pour ce projet:
 
-- **Endurance:** le projet a-t-il été exécuté de manière régulière durant 100 jours?
-- **Originalité:** êtes-vous allé au bout de la contrainte? Avez-vous exploré les possibilités?
-- **Qualité formelle:** le style choisi est-il respecté et maintenu? La qualité et le soin du détail est-il resté constant?
-- **Qualité de la documentation:** la présentation du projet est-elle claire, valorisante et soignée?
+1. **Endurance:** le projet a-t-il été exécuté de manière régulière durant 100 jours?
+2. **Originalité:** êtes-vous allé au bout de la contrainte? Avez-vous exploré les possibilités?
+3. **Qualité formelle:** le style choisi est-il respecté et maintenu? La qualité et le soin du détail est-il resté constant?
+4. **Qualité de la documentation:** la présentation du projet est-elle claire, valorisante et soignée?
 
 ## Inspirations
 
