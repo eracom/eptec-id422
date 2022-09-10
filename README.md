@@ -12,8 +12,8 @@ Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1m
 
 ## Les grands axes du cours
 
-- **Exercices rapides** (environ 10 minutes) visant à développer la créativité individuelle, selon la méthode ("camp d'entraînement") développée par [Dorte Nielsen](https://www.creativethinker.com/) à l'Institut danois des arts graphiques. Cette méthode propose des exercices (visuel, verbaux, conceptuels) qui entraînent la capacité à faire des connexions.
-- **Brainstorming:** Apprendre à stimuler la créativité collective d'un groupe, en animant une séance de brainstorming "selon les règles de l'art" (notamment le livre de Moutot, Autissier & Duperret).
+- **Exercices rapides** (environ 10 minutes) visant à développer la créativité individuelle, selon la méthode ("camp d'entraînement") développée par [Dorte Nielsen](https://www.creativethinker.com/) à l'Institut danois des arts graphiques. Cette méthode propose des exercices (visuels, verbaux, conceptuels) qui entraînent la capacité à faire des connexions.
+- **Brainstorming:** Apprendre à stimuler la créativité collective d'un groupe, en animant une séance de Brainstorming "selon les règles de l'art".
 - **Projet créatif personnel:** Cultiver une routine créative, via un projet mené sur 100 jours. Inspiré d'un [projet de Michael Beirut](https://designbriefs.ch/100-day-project/) (Pentagram) à la Yale School of Art.
 
 ## Evaluations
@@ -39,3 +39,8 @@ Des livres qui ont alimenté ce cours:
 - Dorte Nielsen, Sarah Thurber (2016). *Les secrets de la pensée créative*. Pyramyd.
 - Dorte Nielsen, Katrine Granholm (2016). *Creative Thinker's Exercise Book*. BIS Publishers.
 - Jean-Michel Moutot, David Autissier, François-Xavier Duperret (2018). *Passez en mode workshop agile !*. Pearson.
+
+Liens utiles:
+
+* [cours-web.ch/crea/](https://cours-web.ch/crea/) : Support de cours "Techniques de créativité".
+* [Design Sprint Methodology](https://designsprintkit.withgoogle.com/methodology/overview), by Google.
