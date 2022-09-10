@@ -32,7 +32,7 @@ En principe, la classe entière participera à l'évaluation, à la suite de la 
 
 ## Répartition
 
-La classe ID422 comportant 20 élèves, nous formerons 10 binômes.
+La classe ID422 comportant 23 élèves, nous formerons 10 binômes et un groupe de 3.
 
-Pour chaque séance de brainstorming, la classe sera divisée en deux groupes. Chaque binôme animera l'un des groupes.
+Lors des séances de brainstorming, la classe peut être divisée en deux groupes. Chaque binôme animer l'un des groupes.
 
