@@ -20,7 +20,7 @@ Cette animation se fera en binôme (par groupe de deux).
 
 En principe, la classe entière participera à l'évaluation, à la suite de la séance de brainstorming.
 
-## Thèmes possibles de Brainstorming
+## Thèmes possibles de brainstorming
 
 - Imaginer des activités pour le projet "100 jours".
 - Améliorer l'espace de travail de la classe (le rendre plus créatif, plus agréable, plus productif).
@@ -29,10 +29,13 @@ En principe, la classe entière participera à l'évaluation, à la suite de la 
 - Idées pour un blog des élèves de l'eracom.
 - Un problème proposé par un partenaire externe (Arsenic, Les Docks, entreprise de la cantine...).
 
+## Méthodes de brainstorming
+
+Les groupes sont encouragés à varier les méthodes et à essayer de nouvelles approches. Le site [https://cours-web.ch/crea/](https://cours-web.ch/crea/) vous donnera de nombreux exemples.
 
 ## Répartition
 
 La classe ID422 comportant 23 élèves, nous formerons 10 binômes et un groupe de 3.
 
-Lors des séances de brainstorming, la classe peut être divisée en deux groupes. Chaque binôme animer l'un des groupes.
+Lors des séances de brainstorming, la classe peut être divisée en deux groupes. Chaque binôme animera l'un des groupes.
 
