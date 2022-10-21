@@ -6,20 +6,16 @@ permalink: eval-exercice.html
 
 L'une des trois évaluations du cours:
 
-Participation aux exercices hebdomadaires, le  "camp d'entraînement" selon Dorte Nielsen. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). 
+Participation aux **exercices hebdomadaires**, le  "camp d'entraînement" selon Dorte Nielsen. Certains des exercices peuvent être validés par une note ("élaboration visuelle", "autres usages"). 
 
-### Dates prévues:
+### Dates prévues pour évaluation
 
-- 18 novembre, "Elaboration visuelle"
-- 2 décembre, "Elaboration visuelle 2"
-- 16 décembre, "Autres usages"
+Depuis la semaine 44 (2-4 novembre) à semaine 49 (9 décembre): 6 séances.
 
-Après la réalisation d'un exercice, vous pouvez décider de le soumettre à évaluation. 
-
-Nous avons tous des jours ou nous sommes moins créatifs". C'est pourquoi vous aurez trois possibilités de faire évaluer votre production.
+Après la réalisation d'un exercice, vous pouvez décider de le soumettre à évaluation. Durant ces 6 séances, **trois exercices** devront être rendus pour l'évaluation. Vous pouvez choisir les exercices que vous soumettez.
 
 ### Critères: 
 
-- **Fluidité créative** : quantité des propositions.
-- **Originalité créative** : produire des propositions inattendues, des idées auxquelles personne n'avait pensé. Apprenez à ne pas fuir les liens inhabituels.
+- **Fluidité créative** : la quantité des propositions.
+- **Originalité créative** : produire des propositions inattendues, des idées auxquelles personne n'avait pensé. Apprenez à faire des liens inhabituels.
 - **Lisibilité** : Les croquis sont clairs et expressifs. Les idées sont faciles à déchiffrer, elles se comprennent sans explications supplémentaires.
