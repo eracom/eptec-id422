@@ -60,7 +60,11 @@ Les critères d'évaluation pour ce projet:
 3. **Qualité formelle:** le style choisi est-il respecté et maintenu? La qualité et le soin du détail est-il resté constant?
 4. **Qualité de la documentation:** la présentation du projet est-elle claire, valorisante et soignée?
 
+Voir [la grille d'évaluation](Evaluations/Evaluation-100jours.xlsx)
+
 ## Inspirations
+
+Des projets d'art et de design liés à la durée:
 
 - The Atlas Group - [https://www.theatlasgroup1989.org/n57](https://www.theatlasgroup1989.org/n57)
 - Michael Bierut, [Five Years of 100 Days](https://designobserver.com/feature/five-years-of-100-days/24678), DesignObserver.com

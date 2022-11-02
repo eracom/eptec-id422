@@ -20,6 +20,8 @@ Cette animation se fera en binôme (par groupe de deux).
 
 En principe, la classe entière participera à l'évaluation, à la suite de la séance de brainstorming.
 
+Voir [la grille d'évaluation](Evaluations/Evaluation-Brainstorming.xlsx).
+
 ## Thèmes possibles de brainstorming
 
 - Imaginer des activités pour le projet "100 jours".
