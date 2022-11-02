@@ -2,10 +2,10 @@
 
 **Dates:** du 26 août 2022 au 20 janvier 2023  
 **Horaire:** Vendredi – 8h15 à 9h00 (2 périodes)  
-**Classe:** ID422  
+**Classe:** ID422 et ID423 
 **Acronyme cours:** EPTEC  
 **Catégorie:** Préparation de projets  
-**Enseignant:** Manuel Schmalstieg  
+**Enseignant:** Manuel Schmalstieg et Livia Gnos  
 **Lien:** [code.eracom-pedagogique.ch/eptec-id422/](https://code.eracom-pedagogique.ch/eptec-id422/)
 
 Planning du cours: [Lien Google Drive](https://docs.google.com/spreadsheets/d/1mg5jHjgy4jUX91HR-OXavUNMV0SPCRml7QySmD5yuYY/edit?usp=sharing)
