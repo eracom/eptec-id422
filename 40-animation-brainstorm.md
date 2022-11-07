@@ -30,14 +30,8 @@ Voir [la grille d'évaluation](Evaluations/Evaluation-Brainstorming.xlsx).
 - Créer [un nouvel emoji](https://designbriefs.ch/create-a-new-emoji/) qui n'existe pas encore.
 - Idées pour un blog des élèves de l'eracom.
 - Un problème proposé par un partenaire externe (Arsenic, Les Docks, entreprise de la cantine...).
+- Créer une série TV. Définir le public et le thème de la série. Etablir un arc narratif global. Etablir le scénario du 1er épisode (le pilote).
 
 ## Méthodes de brainstorming
 
 Les groupes sont encouragés à varier les méthodes et à essayer de nouvelles approches. Le site [https://cours-web.ch/crea/](https://cours-web.ch/crea/) vous donnera de nombreux exemples.
-
-## Répartition
-
-La classe ID422 comportant 23 élèves, nous formerons 10 binômes et un groupe de 3.
-
-Lors des séances de brainstorming, la classe peut être divisée en deux groupes. Chaque binôme animera l'un des groupes.
-
