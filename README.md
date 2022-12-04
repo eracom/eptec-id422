@@ -2,7 +2,7 @@
 
 **Dates:** du 26 août 2022 au 20 janvier 2023  
 **Horaire:** Vendredi – 8h15 à 9h00 (2 périodes)  
-**Classe:** ID422 et ID423 
+**Classe:** ID422 et ID423  
 **Acronyme cours:** EPTEC  
 **Catégorie:** Préparation de projets  
 **Enseignant:** Manuel Schmalstieg et Livia Gnos  
