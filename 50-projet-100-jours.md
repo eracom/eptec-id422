@@ -51,7 +51,7 @@ Chaque jour...
 
 Tout le travail effectué devra être montré, sur un écran, sous forme imprimée, ou directement dans le cas d'une production matérielle (carnet, dessin, sculpture sur chewing-gum, etc...)
 
-Une documentation **sur une page A4** devra indiquer: auteur du projet, titre de la série, notice explicative. Un modèle InDesign sera fourni et devra être utilisé.
+Une documentation **sur une page A4** devra indiquer: auteur du projet, titre de la série, notice explicative. Un [modèle Word se trouve dans Teams](https://eduvaud.sharepoint.com/:w:/s/ERACOM_ID422_Teams/EYoiqv2gIJFHnEd3M-KBSFsBjQjrafAxtRzNRQfwFrXfDw?e=JCNUBI).
 
 Les critères d'évaluation pour ce projet:
 
