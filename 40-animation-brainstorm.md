@@ -29,7 +29,7 @@ Voir [la grille d'évaluation](Evaluations/Evaluation-Brainstorming.xlsx).
 - Trouver un nom pour un nouveau produit.
 - Créer [un nouvel emoji](https://designbriefs.ch/create-a-new-emoji/) qui n'existe pas encore.
 - Idées pour un blog des élèves de l'eracom.
-- Un problème proposé par un partenaire externe (Arsenic, Les Docks, entreprise de la cantine...).
+- Un problème proposé par un partenaire externe.
 - Créer une série TV. Définir le public et le thème de la série. Etablir un arc narratif global. Etablir le scénario du 1er épisode (le pilote).
 
 ## Méthodes de brainstorming
